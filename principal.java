@@ -4,7 +4,7 @@ public class principal{
 
 	
 	System.out.println("Ejemplo1");
-
+	System.out.println("Fatal Error");
 	}
 
 }
